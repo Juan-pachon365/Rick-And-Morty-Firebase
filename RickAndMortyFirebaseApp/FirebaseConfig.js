@@ -3,7 +3,7 @@ import { initializeAuth, getReactNativePersistence } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 import AsyncStorage from "@react-native-async-storage/async-storage";
 
-// REEMPLAZA ESTO CON TUS DATOS REALES DE LA CONSOLA DE FIREBASE
+
 const firebaseConfig = {
   apiKey: "AIzaSyCUym4qlxbxskBEiJR9vbdhhlWK6BpigoY",
   authDomain: "rickandmortyexpo.firebaseapp.com",
